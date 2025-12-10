@@ -157,7 +157,7 @@ This will build the project and deploy it to the `gh-pages` branch automatically
 #### Camera Controls
 
 - Use the **Zoom Controls** widget to zoom in/out
-- **Pan** by dragging the canvas (if implemented)
+- **Pan** by dragging the canvas
 
 ### Widgets
 
