@@ -271,6 +271,6 @@ This will:
 
 **Made with ❤️**
 
-⭐ Star this repo( if you find it helpful!
+⭐ Star this repo if you find it helpful!
 
 </div>
